@@ -11,8 +11,8 @@ Welcome to my GitHub profile!
 
 ## What I'm Working On
 
-Still setting things up — more to come!
+currently working on Sentinel a Self-hosted observability for small deployments. you can check it out in https://github.com/HubGob/Sentinel-Self-hosted-observability.git
 
-## Connect
+## Connet
 
 - **GitHub:** https://github.com/HubGob
