@@ -1,13 +1,13 @@
-# Hi, I'm HubGob 👋
+# Hi, I'm HubGob 
 
 Welcome to my GitHub profile!
 
 ## About Me
 
-- 🌏 Based in Philippines
-- 💼 MCT / AI enthusiast
-- 🐍 Python & JavaScript
-- 🎮 Enjoys gaming
+-  Based in Philippines
+-  MCT / AI enthusiast
+-  Python & JavaScript
+-  Enjoys gaming
 
 ## What I'm Working On
 
