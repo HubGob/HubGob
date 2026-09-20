@@ -6,8 +6,7 @@ Welcome to my GitHub profile!
 
 -  Based in Philippines
 -  MCT / AI enthusiast
--  Python & JavaScript
--  Enjoys gaming
+-  Python & TSX developer 
 
 ## What I'm Working On
 
